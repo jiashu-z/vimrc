@@ -2,6 +2,8 @@ set number
 set tabstop=2 shiftwidth=2 expandtab
 set backspace=indent,eol,start
 set splitright
+set hlsearch
+set incsearch
 
 " solarized dark theme
 syntax enable
